@@ -1,0 +1,22 @@
+p{
+    color: blue;
+}
+body{
+    background-color: orange;
+}
+video{
+    border: 2px solid white;
+}
+table,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.name{
+    border: 2px solid red;
+}
+th{
+    background-color: lightblue;
+}
+td{
+    background-color: lightgoldenrodyellow;
+}
